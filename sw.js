@@ -15,7 +15,7 @@
  * conoce como número menor y se cambia cuando se realizan
  * modificaciones menores.
  */
-const VERSION = "2.00"
+const VERSION = "3.00"
 
 /** Nombre del archivo de cache. */
 const CACHE = "ejemploPWA"
@@ -25,23 +25,23 @@ const CACHE = "ejemploPWA"
  * línea.
  */
 const ARCHIVOS = [
- "favicon.ico",
- "index.html",
- "site.webmanifest",
- "css/estilos.css",
- "img/icono2048.png",
- "img/maskable_icon.png",
- "img/maskable_icon_x128.png",
- "img/maskable_icon_x192.png",
- "img/maskable_icon_x384.png",
- "img/maskable_icon_x48.png",
- "img/maskable_icon_x512.png",
- "img/maskable_icon_x72.png",
- "img/maskable_icon_x96.png",
- "img/screenshot_horizontal.png",
- "img/screenshot_vertical.png",
- "js/registraServiceWorker.js",
- "marianaherr.github.io/"
+ "./favicon.ico",
+ "./index.html",
+ "./site.webmanifest",
+ "./css/estilos.css",
+ "./img/icono2048.png",
+ "./img/maskable_icon.png",
+ "./img/maskable_icon_x128.png",
+ "./img/maskable_icon_x192.png",
+ "./img/maskable_icon_x384.png",
+ "./img/maskable_icon_x48.png",
+ "./img/maskable_icon_x512.png",
+ "./img/maskable_icon_x72.png",
+ "./img/maskable_icon_x96.png",
+ "./img/screenshot_horizontal.png",
+ "./img/screenshot_vertical.png",
+ "./js/registraServiceWorker.js",
+ "./"
 ]
 
 // Verifica si el código corre dentro de un service worker.
