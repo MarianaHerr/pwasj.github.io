@@ -41,7 +41,7 @@ const ARCHIVOS = [
  "img/screenshot_horizontal.png",
  "img/screenshot_vertical.png",
  "js/registraServiceWorker.js",
- "/"
+ "marianaherr.github.io/"
 ]
 
 // Verifica si el código corre dentro de un service worker.
